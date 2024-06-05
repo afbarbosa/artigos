@@ -7,7 +7,7 @@ Aqui vou postar uma lsita de artigos que vou escrever como com ajuda de intelige
 ## Lista
 <ul>
     <li>   
-         Transformando dados brutos em insights valiosos. 
+         <a href="https://medium.com/@andrefb.bh/transformando-dados-brutos-em-insights-valiosos-1583c0f3afe1">Transformando dados brutos em insights valiosos. </a>
     </li>
 </ul>
 
